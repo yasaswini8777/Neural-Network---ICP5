@@ -6,4 +6,7 @@ Name: Yasaswini Majety ID: 700747747
 
 - SVM Method Implemented linear SVM method using scikit library and using the same dataset with name glass. Used train_test_split to create training and testing part Evaluated the model on test part using score and classification_report(y_true, y_pred)
 
-Code File - Document- 
+Code File -NNDL_ICP5_700747747.ipynb Document-NNDL_ICP5_700747747
+
+Video File-
+
