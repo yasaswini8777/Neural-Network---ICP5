@@ -8,5 +8,5 @@ Name: Yasaswini Majety ID: 700747747
 
 Code File -NNDL_ICP5_700747747.ipynb Document-NNDL_ICP5_700747747
 
-Video File-
+Video File- https://drive.google.com/file/d/1qZt9Ph4l2XmfGboVBecgmeO6eeZ2get5/view?usp=sharing
 
